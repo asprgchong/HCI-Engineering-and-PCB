@@ -2,6 +2,8 @@ Final Project: HCI Engineering
 
 Piano gloves: an interactive wearable with left and right hand modulation using 10 piezos (7 for notes, 3 for key/octave changes). User input of pressing down fingers with variable force will trigger MIDI messages sent to Garageband via USB from left-hand microcontroller.
 
+<img width="3024" height="4032" alt="piezzo1" src="https://github.com/user-attachments/assets/519f1741-2e82-4108-baad-564b5e5220fb" />
+
 Dependencies (all included in file):
     SPI.h
     Wire.h
